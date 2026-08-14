@@ -14,7 +14,7 @@
             "last_commit": "2024-12-22T21:12:22Z",
             "owner": "alexfru",
             "repo": "SmallerC",
-            "stars": 1574
+            "stars": 1573
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T00:17:40Z",
+            "last_commit": "2026-08-14T04:24:08Z",
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
-            "stars": 1250
+            "stars": 1251
           }
         },
         {
@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T14:45:03Z",
+            "last_commit": "2026-08-13T12:37:19Z",
             "owner": "NetHack",
             "repo": "NetHack",
-            "stars": 3859
+            "stars": 3863
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2024-05-24T13:18:59Z",
             "owner": "id-Software",
             "repo": "DOOM",
-            "stars": 19378
+            "stars": 19384
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2026-06-28T08:32:10Z",
             "owner": "crazii",
             "repo": "SBEMU",
-            "stars": 776
+            "stars": 777
           }
         },
         {
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:10.474Z",
+    "last_updated": "2026-08-14T05:23:18.642Z",
     "original_repository": "balintkissdev/awesome-dos",
     "original_repository_sha": "28547f89e7a5fe70ed644603305167c8f4df711b",
     "enhanced_repository": "enhansome/enhansome-dos",
