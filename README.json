@@ -14,7 +14,7 @@
             "last_commit": "2024-12-22T21:12:22Z",
             "owner": "alexfru",
             "repo": "SmallerC",
-            "stars": 1575
+            "stars": 1574
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T03:19:08Z",
+            "last_commit": "2026-08-18T03:26:35Z",
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
             "stars": 1252
@@ -108,10 +108,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-05T04:39:24Z",
+            "last_commit": "2026-08-17T08:16:03Z",
             "owner": "liballeg",
             "repo": "allegro5",
-            "stars": 2118
+            "stars": 2117
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2026-08-16T22:00:03Z",
             "owner": "NetHack",
             "repo": "NetHack",
-            "stars": 3866
+            "stars": 3867
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2024-05-24T13:18:59Z",
             "owner": "id-Software",
             "repo": "DOOM",
-            "stars": 19403
+            "stars": 19408
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2024-06-15T17:16:08Z",
             "owner": "id-Software",
             "repo": "Quake",
-            "stars": 6011
+            "stars": 6013
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2026-06-28T08:32:10Z",
             "owner": "crazii",
             "repo": "SBEMU",
-            "stars": 777
+            "stars": 778
           }
         },
         {
@@ -521,7 +521,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T11:39:21Z",
+            "last_commit": "2026-08-17T11:39:42Z",
             "owner": "Baron-von-Riedesel",
             "repo": "VSBHDA",
             "stars": 151
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:30:27.457Z",
+    "last_updated": "2026-08-18T04:23:53.291Z",
     "original_repository": "balintkissdev/awesome-dos",
     "original_repository_sha": "28547f89e7a5fe70ed644603305167c8f4df711b",
     "enhanced_repository": "enhansome/enhansome-dos",
