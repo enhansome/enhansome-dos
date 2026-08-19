@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6812127,
             "language": "C",
             "last_commit": "2024-12-22T21:12:22Z",
             "owner": "alexfru",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5390641,
             "language": "C",
             "last_commit": "2026-08-19T03:17:35Z",
             "owner": "open-watcom",
@@ -38,502 +40,533 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231761607,
             "language": "C",
             "last_commit": "2023-06-16T01:51:31Z",
             "owner": "humbertocsjr",
             "repo": "Small-C",
             "stars": 2
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DOjS",
+              "description": "JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170185910,
+                "language": "C",
+                "last_commit": "2025-11-22T15:47:48Z",
+                "owner": "SuperIlu",
+                "repo": "DOjS",
+                "stars": 957
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Micropython for FreeDOS",
+              "description": "FreeDOS ad-hoc module for micropython.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47025160,
+                "language": "C",
+                "last_commit": "2016-10-26T13:12:14Z",
+                "owner": "pohmelie",
+                "repo": "micropython-freedos",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scripting languages and interpreters for DOS"
         }
       ],
       "title": "Development tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "DOjS",
-          "description": "JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-11-22T15:47:48Z",
-            "owner": "SuperIlu",
-            "repo": "DOjS",
-            "stars": 957
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Micropython for FreeDOS",
-          "description": "FreeDOS ad-hoc module for micropython.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-10-26T13:12:14Z",
-            "owner": "pohmelie",
-            "repo": "micropython-freedos",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "Scripting languages and interpreters for DOS"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tutorials and programming resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Source code"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Allegro 4.2",
-          "description": "Game development library for DOS, Windows and Linux. 4.2 version supports DOS platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T08:16:03Z",
-            "owner": "liballeg",
-            "repo": "allegro5",
-            "stars": 2117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LoveDOS",
-          "description": "A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2017-05-06T08:32:40Z",
-            "owner": "rxi",
-            "repo": "lovedos",
-            "stars": 706
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DIGPAK sound drivers source code",
-          "description": "Original source code for the DIGPAK sound drivers uploaded to GitHub by John W. Ratcliff.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2021-11-23T22:34:58Z",
-            "owner": "jratcliff63367",
-            "repo": "digpak",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DOS-VGA-Game",
-          "description": "Marco A. Marrero's DOS VGA/hardware library implemented in assembly and Turbo Pascal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2017-07-05T17:16:28Z",
-            "owner": "marcomarrero",
-            "repo": "DOS-VGA-Game",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Open source DOS libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Open source DOS games"
-    },
-    {
-      "description": "List of all homebrew DOS games: http://www.doshaven.eu",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NetHack",
-          "description": "Descendant of the original NetHack rougelike game first released in 1987 available on multiple platforms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-19T02:35:04Z",
-            "owner": "NetHack",
-            "repo": "NetHack",
-            "stars": 3869
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Floppy Bird",
-          "description": "Flappy Bird clone written in 16 bit assembly. Not a DOS program, but a PC-Booter application instead (although it's also possible to build a COM executable for DOS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2020-04-01T19:49:44Z",
-            "owner": "icebreaker",
-            "repo": "floppybird",
-            "stars": 936
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DOS Defender",
-          "description": "Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-09-11T04:45:58Z",
-            "owner": "skeeto",
-            "repo": "dosdefender-ld31",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dungeons of Noudar",
-          "description": "First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-08-25T22:54:31Z",
-            "owner": "TheFakeMontyOnTheRun",
-            "repo": "dungeons-of-noudar",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ptakovina",
-          "description": "Tetris clone written in C. Runs on DOS, Unix/Linux, ZX Spectrum and Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-11-23T21:44:39Z",
-            "owner": "oldcompcz",
-            "repo": "tetris",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Plutonium Caverns",
-          "description": "Overhead puzzle game written in C. Web version uses DOSBox ported to Emscripten to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2019-06-08T09:37:36Z",
-            "owner": "jani-nykanen",
-            "repo": "plutonium-caverns",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "x86 pong",
-          "description": "Text-mode Pong clone written in C. Runs as PC-Booter game and under DOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-09-29T10:07:10Z",
-            "owner": "spacerace",
-            "repo": "x86-pong",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Piskworks",
-          "description": "Gomoku clone written in C. Works on DOS, ZX Spectrum, ZX81, ZX80, APPLE1, AS400 and Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-11-23T21:33:22Z",
-            "owner": "oldcompcz",
-            "repo": "piskworks",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Towers of Hanoi",
-          "description": "Tower of Hanoi puzzle game written in Turbo Pascal. Originally released in 1996.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pascal",
-            "last_commit": "2015-10-20T20:33:35Z",
-            "owner": "sblendorio",
-            "repo": "hanoi-dos",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Gridfighter 3D",
-          "description": "'80s style arcade shooter written in Quickbasic. Also the very first known DOS game that supports Oculus Rift VR headset.",
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub repository",
-              "description": null,
+              "title": "Allegro 4.2",
+              "description": "Game development library for DOS, Windows and Linux. 4.2 version supports DOS platform.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Visual Basic",
-                "last_commit": "2019-01-19T04:39:16Z",
-                "owner": "porta2note",
-                "repo": "gridfighter3d",
-                "stars": 4
+                "id": 1005627,
+                "language": "C",
+                "last_commit": "2026-08-17T08:16:03Z",
+                "owner": "liballeg",
+                "repo": "allegro5",
+                "stars": 2117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LoveDOS",
+              "description": "A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 20815377,
+                "language": "C",
+                "last_commit": "2017-05-06T08:32:40Z",
+                "owner": "rxi",
+                "repo": "lovedos",
+                "stars": 706
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DIGPAK sound drivers source code",
+              "description": "Original source code for the DIGPAK sound drivers uploaded to GitHub by John W. Ratcliff.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338167346,
+                "language": "Assembly",
+                "last_commit": "2021-11-23T22:34:58Z",
+                "owner": "jratcliff63367",
+                "repo": "digpak",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DOS-VGA-Game",
+              "description": "Marco A. Marrero's DOS VGA/hardware library implemented in assembly and Turbo Pascal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96338735,
+                "language": "Assembly",
+                "last_commit": "2017-07-05T17:16:28Z",
+                "owner": "marcomarrero",
+                "repo": "DOS-VGA-Game",
+                "stars": 13
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open source DOS libraries"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NetHack",
+                  "description": "Descendant of the original NetHack rougelike game first released in 1987 available on multiple platforms.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47593546,
+                    "language": "C",
+                    "last_commit": "2026-08-19T11:40:03Z",
+                    "owner": "NetHack",
+                    "repo": "NetHack",
+                    "stars": 3870
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Floppy Bird",
+                  "description": "Flappy Bird clone written in 16 bit assembly. Not a DOS program, but a PC-Booter application instead (although it's also possible to build a COM executable for DOS).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17141004,
+                    "language": "Assembly",
+                    "last_commit": "2020-04-01T19:49:44Z",
+                    "owner": "icebreaker",
+                    "repo": "floppybird",
+                    "stars": 936
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DOS Defender",
+                  "description": "Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 27622373,
+                    "language": "C",
+                    "last_commit": "2023-09-11T04:45:58Z",
+                    "owner": "skeeto",
+                    "repo": "dosdefender-ld31",
+                    "stars": 138
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dungeons of Noudar",
+                  "description": "First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 68463261,
+                    "language": "C++",
+                    "last_commit": "2025-08-25T22:54:31Z",
+                    "owner": "TheFakeMontyOnTheRun",
+                    "repo": "dungeons-of-noudar",
+                    "stars": 60
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ptakovina",
+                  "description": "Tetris clone written in C. Runs on DOS, Unix/Linux, ZX Spectrum and Windows.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 104647517,
+                    "language": "C",
+                    "last_commit": "2024-11-23T21:44:39Z",
+                    "owner": "oldcompcz",
+                    "repo": "tetris",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Plutonium Caverns",
+                  "description": "Overhead puzzle game written in C. Web version uses DOSBox ported to Emscripten to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 179880997,
+                    "language": "C",
+                    "last_commit": "2019-06-08T09:37:36Z",
+                    "owner": "jani-nykanen",
+                    "repo": "plutonium-caverns",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "x86 pong",
+                  "description": "Text-mode Pong clone written in C. Runs as PC-Booter game and under DOS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 100756645,
+                    "language": "C",
+                    "last_commit": "2018-09-29T10:07:10Z",
+                    "owner": "spacerace",
+                    "repo": "x86-pong",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Piskworks",
+                  "description": "Gomoku clone written in C. Works on DOS, ZX Spectrum, ZX81, ZX80, APPLE1, AS400 and Windows.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 104725066,
+                    "language": "C",
+                    "last_commit": "2024-11-23T21:33:22Z",
+                    "owner": "oldcompcz",
+                    "repo": "piskworks",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Towers of Hanoi",
+                  "description": "Tower of Hanoi puzzle game written in Turbo Pascal. Originally released in 1996.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44633023,
+                    "language": "Pascal",
+                    "last_commit": "2015-10-20T20:33:35Z",
+                    "owner": "sblendorio",
+                    "repo": "hanoi-dos",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "group",
+                  "title": "Gridfighter 3D",
+                  "description": "'80s style arcade shooter written in Quickbasic. Also the very first known DOS game that supports Oculus Rift VR headset.",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "GitHub repository",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 112911183,
+                        "language": "Visual Basic",
+                        "last_commit": "2019-01-19T04:39:16Z",
+                        "owner": "porta2note",
+                        "repo": "gridfighter3d",
+                        "stars": 4
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": "List of all homebrew DOS games: http://www.doshaven.eu",
+              "node_type": "group",
+              "title": "Homebrew games with source code"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Doom",
+                  "description": "Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3319040,
+                    "language": "C++",
+                    "last_commit": "2024-05-24T13:18:59Z",
+                    "owner": "id-Software",
+                    "repo": "DOOM",
+                    "stars": 19421
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Quake",
+                  "description": "FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3318531,
+                    "language": "C",
+                    "last_commit": "2024-06-15T17:16:08Z",
+                    "owner": "id-Software",
+                    "repo": "Quake",
+                    "stars": 6015
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Wolfenstein 3D",
+                  "description": "FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3368503,
+                    "language": null,
+                    "last_commit": "2012-02-06T16:40:38Z",
+                    "owner": "id-Software",
+                    "repo": "wolf3d",
+                    "stars": 2519
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Commander Keen in Keen Dreams",
+                  "description": "Side-scrolling platform game developed by id Software. Keen Dreams is the Commander Keen game created between Keen 3 and Keen 4 (often considered \"Keen 3.5\"), but was not widely released. Written in C and assembly.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24094708,
+                    "language": "C",
+                    "last_commit": "2014-11-12T20:12:32Z",
+                    "owner": "keendreams",
+                    "repo": "keen",
+                    "stars": 1966
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Descent",
+                  "description": "First sci-fi FPS/space shooter to feature entirely true 3D graphics. Written in C and assembly.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 6510495,
+                    "language": "C",
+                    "last_commit": "2018-10-13T08:30:43Z",
+                    "owner": "videogamepreservation",
+                    "repo": "descent",
+                    "stars": 430
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hovertank 3D",
+                  "description": "FPS developed by id Software. Features pseudo-3D graphics with raycasting technique, before Catacomb 3D and Wolfeinstein 3D. Written in C and assembly.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20498290,
+                    "language": "C++",
+                    "last_commit": "2014-06-04T20:16:40Z",
+                    "owner": "FlatRockSoft",
+                    "repo": "Hovertank3D",
+                    "stars": 256
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Catacomb 3D",
+                  "description": "First-person shooter in fantasy setting developed by Softdisk (later becoming id Software). Features pseudo-3D graphics with raycasting technique. Supports EGA graphics. Written in C and assembly. Compiled with Borland C++ 3.1.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20545379,
+                    "language": "C++",
+                    "last_commit": "2014-06-05T23:54:01Z",
+                    "owner": "CatacombGames",
+                    "repo": "Catacomb3D",
+                    "stars": 205
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Catacomb",
+                  "description": "2D top-down shooter developed by Softdisk (later becoming id Software). Supports EGA and CGA graphics. Written in Turbo Pascal and assembly.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20518692,
+                    "language": null,
+                    "last_commit": "2014-06-05T09:08:48Z",
+                    "owner": "CatacombGames",
+                    "repo": "Catacomb",
+                    "stars": 145
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Rise of the Triad: Dark War",
+                  "description": "FPS developed by Apogee. It was developed as a follow-up to Wolfenstein 3D, but was altered and became a standalone game instead. Uses a heavily modified Wolfenstein 3D engine. Written in C.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 6525232,
+                    "language": "C",
+                    "last_commit": "2018-10-13T08:53:54Z",
+                    "owner": "videogamepreservation",
+                    "repo": "rott",
+                    "stars": 111
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Descent II",
+                  "description": "Sequel to Descent. Written in C and assembly.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 6510561,
+                    "language": null,
+                    "last_commit": "2012-11-02T18:36:30Z",
+                    "owner": "videogamepreservation",
+                    "repo": "descent2",
+                    "stars": 94
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Heretic",
+                  "description": "Dark fantasy FPS running on id Software's Doom engine.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9936000,
+                    "language": "C++",
+                    "last_commit": "2013-05-08T12:39:11Z",
+                    "owner": "OpenSourcedGames",
+                    "repo": "Heretic",
+                    "stars": 53
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hexen: Beyond Heretic",
+                  "description": "Indirect sequel to Heretic.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9935948,
+                    "language": "C++",
+                    "last_commit": "2013-05-08T12:37:10Z",
+                    "owner": "OpenSourcedGames",
+                    "repo": "Hexen",
+                    "stars": 47
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Commercial games with published source code"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open source DOS games"
         }
       ],
-      "title": "Homebrew games with source code"
+      "title": "Source code"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Doom",
-          "description": "Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-05-24T13:18:59Z",
-            "owner": "id-Software",
-            "repo": "DOOM",
-            "stars": 19417
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quake",
-          "description": "FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-06-15T17:16:08Z",
-            "owner": "id-Software",
-            "repo": "Quake",
-            "stars": 6013
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wolfenstein 3D",
-          "description": "FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2012-02-06T16:40:38Z",
-            "owner": "id-Software",
-            "repo": "wolf3d",
-            "stars": 2519
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Commander Keen in Keen Dreams",
-          "description": "Side-scrolling platform game developed by id Software. Keen Dreams is the Commander Keen game created between Keen 3 and Keen 4 (often considered \"Keen 3.5\"), but was not widely released. Written in C and assembly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2014-11-12T20:12:32Z",
-            "owner": "keendreams",
-            "repo": "keen",
-            "stars": 1966
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Descent",
-          "description": "First sci-fi FPS/space shooter to feature entirely true 3D graphics. Written in C and assembly.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2018-10-13T08:30:43Z",
-            "owner": "videogamepreservation",
-            "repo": "descent",
-            "stars": 430
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hovertank 3D",
-          "description": "FPS developed by id Software. Features pseudo-3D graphics with raycasting technique, before Catacomb 3D and Wolfeinstein 3D. Written in C and assembly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2014-06-04T20:16:40Z",
-            "owner": "FlatRockSoft",
-            "repo": "Hovertank3D",
-            "stars": 256
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Catacomb 3D",
-          "description": "First-person shooter in fantasy setting developed by Softdisk (later becoming id Software). Features pseudo-3D graphics with raycasting technique. Supports EGA graphics. Written in C and assembly. Compiled with Borland C++ 3.1.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2014-06-05T23:54:01Z",
-            "owner": "CatacombGames",
-            "repo": "Catacomb3D",
-            "stars": 205
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Catacomb",
-          "description": "2D top-down shooter developed by Softdisk (later becoming id Software). Supports EGA and CGA graphics. Written in Turbo Pascal and assembly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2014-06-05T09:08:48Z",
-            "owner": "CatacombGames",
-            "repo": "Catacomb",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rise of the Triad: Dark War",
-          "description": "FPS developed by Apogee. It was developed as a follow-up to Wolfenstein 3D, but was altered and became a standalone game instead. Uses a heavily modified Wolfenstein 3D engine. Written in C.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2018-10-13T08:53:54Z",
-            "owner": "videogamepreservation",
-            "repo": "rott",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Descent II",
-          "description": "Sequel to Descent. Written in C and assembly.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2012-11-02T18:36:30Z",
-            "owner": "videogamepreservation",
-            "repo": "descent2",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Heretic",
-          "description": "Dark fantasy FPS running on id Software's Doom engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2013-05-08T12:39:11Z",
-            "owner": "OpenSourcedGames",
-            "repo": "Heretic",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hexen: Beyond Heretic",
-          "description": "Indirect sequel to Heretic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2013-05-08T12:37:10Z",
-            "owner": "OpenSourcedGames",
-            "repo": "Hexen",
-            "stars": 47
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SBEMU",
+              "description": "A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 586904864,
+                "language": "C",
+                "last_commit": "2026-06-28T08:32:10Z",
+                "owner": "crazii",
+                "repo": "SBEMU",
+                "stars": 778
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VSB",
+              "description": "A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602517313,
+                "language": "C",
+                "last_commit": "2026-08-17T11:39:42Z",
+                "owner": "Baron-von-Riedesel",
+                "repo": "VSBHDA",
+                "stars": 151
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sound card emulators"
         }
       ],
-      "title": "Commercial games with published source code"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Drivers and emulators"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SBEMU",
-          "description": "A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-28T08:32:10Z",
-            "owner": "crazii",
-            "repo": "SBEMU",
-            "stars": 778
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VSB",
-          "description": "A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T11:39:42Z",
-            "owner": "Baron-von-Riedesel",
-            "repo": "VSBHDA",
-            "stars": 151
-          }
-        }
-      ],
-      "title": "Sound card emulators"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:25:23.340Z",
+    "last_updated": "2026-08-19T12:26:03.031Z",
     "original_repository": "balintkissdev/awesome-dos",
+    "original_repository_id": 194946088,
     "original_repository_sha": "28547f89e7a5fe70ed644603305167c8f4df711b",
     "enhanced_repository": "enhansome/enhansome-dos",
     "enhanced_repository_description": null,
