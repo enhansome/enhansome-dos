@@ -15,7 +15,7 @@
             "last_commit": "2024-12-22T21:12:22Z",
             "owner": "alexfru",
             "repo": "SmallerC",
-            "stars": 1576
+            "stars": 1577
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 5390641,
             "language": "C",
-            "last_commit": "2026-08-22T03:19:49Z",
+            "last_commit": "2026-08-23T03:34:31Z",
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
             "stars": 1253
@@ -105,7 +105,7 @@
                 "last_commit": "2026-08-17T08:16:03Z",
                 "owner": "liballeg",
                 "repo": "allegro5",
-                "stars": 2117
+                "stars": 2119
               }
             },
             {
@@ -171,10 +171,10 @@
                     "archived": false,
                     "id": 47593546,
                     "language": "C",
-                    "last_commit": "2026-08-21T18:37:17Z",
+                    "last_commit": "2026-08-22T14:45:03Z",
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3874
+                    "stars": 3876
                   }
                 },
                 {
@@ -338,7 +338,7 @@
                     "last_commit": "2024-05-24T13:18:59Z",
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19444
+                    "stars": 19452
                   }
                 },
                 {
@@ -488,7 +488,7 @@
                     "last_commit": "2013-05-08T12:39:11Z",
                     "owner": "OpenSourcedGames",
                     "repo": "Heretic",
-                    "stars": 53
+                    "stars": 54
                   }
                 },
                 {
@@ -503,7 +503,7 @@
                     "last_commit": "2013-05-08T12:37:10Z",
                     "owner": "OpenSourcedGames",
                     "repo": "Hexen",
-                    "stars": 47
+                    "stars": 48
                   }
                 }
               ],
@@ -533,7 +533,7 @@
                 "archived": false,
                 "id": 586904864,
                 "language": "C",
-                "last_commit": "2026-06-28T08:32:10Z",
+                "last_commit": "2026-08-23T04:25:29Z",
                 "owner": "crazii",
                 "repo": "SBEMU",
                 "stars": 778
@@ -551,7 +551,7 @@
                 "last_commit": "2026-08-21T09:08:25Z",
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
-                "stars": 152
+                "stars": 153
               }
             }
           ],
@@ -564,7 +564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:20:54.625Z",
+    "last_updated": "2026-08-23T04:26:07.120Z",
     "original_repository": "balintkissdev/awesome-dos",
     "original_repository_id": 194946088,
     "original_repository_sha": "28547f89e7a5fe70ed644603305167c8f4df711b",
