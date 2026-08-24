@@ -27,7 +27,7 @@
             "archived": false,
             "id": 5390641,
             "language": "C",
-            "last_commit": "2026-08-24T03:40:19Z",
+            "last_commit": "2026-08-24T08:56:18Z",
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
             "stars": 1253
@@ -47,6 +47,28 @@
             "repo": "Small-C",
             "stars": 2
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "386MAX",
+              "description": "Memory manager for DOS PCs with 386 or higher CPUs, released by Qualitas company in 1992. Source code was released in June 2022 on GitHub with GPL-3.0 license.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508772787,
+                "language": "Assembly",
+                "last_commit": "2022-07-05T13:24:37Z",
+                "owner": "sudleyplace",
+                "repo": "386MAX",
+                "stars": 140
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Memory managers"
         },
         {
           "children": [
@@ -95,6 +117,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "MS-DOS",
+              "description": "GitHub repository of the original source code for MS-DOS v1.25, v2.0 and v4.0, open-sourced by Microsoft.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 138634298,
+                "language": "Assembly",
+                "last_commit": "2024-04-25T22:32:47Z",
+                "owner": "microsoft",
+                "repo": "MS-DOS",
+                "stars": 32281
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open source DOS operating systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Allegro 4.2",
               "description": "Game development library for DOS, Windows and Linux. 4.2 version supports DOS platform.",
               "children": [],
@@ -105,7 +149,7 @@
                 "last_commit": "2026-08-17T08:16:03Z",
                 "owner": "liballeg",
                 "repo": "allegro5",
-                "stars": 2119
+                "stars": 2120
               }
             },
             {
@@ -171,7 +215,7 @@
                     "archived": false,
                     "id": 47593546,
                     "language": "C",
-                    "last_commit": "2026-08-24T03:37:17Z",
+                    "last_commit": "2026-08-24T11:45:04Z",
                     "owner": "NetHack",
                     "repo": "NetHack",
                     "stars": 3876
@@ -219,7 +263,7 @@
                     "last_commit": "2026-08-23T08:12:50Z",
                     "owner": "TheFakeMontyOnTheRun",
                     "repo": "dungeons-of-noudar",
-                    "stars": 60
+                    "stars": 61
                   }
                 },
                 {
@@ -338,7 +382,7 @@
                     "last_commit": "2024-05-24T13:18:59Z",
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19453
+                    "stars": 19454
                   }
                 },
                 {
@@ -353,7 +397,7 @@
                     "last_commit": "2024-06-15T17:16:08Z",
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6022
+                    "stars": 6023
                   }
                 },
                 {
@@ -548,7 +592,7 @@
                 "archived": false,
                 "id": 602517313,
                 "language": "C",
-                "last_commit": "2026-08-21T09:08:25Z",
+                "last_commit": "2026-08-24T11:58:11Z",
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
                 "stars": 153
@@ -564,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:33:56.657Z",
+    "last_updated": "2026-08-24T14:19:02.118Z",
     "original_repository": "balintkissdev/awesome-dos",
     "original_repository_id": 194946088,
     "original_repository_sha": "28547f89e7a5fe70ed644603305167c8f4df711b",

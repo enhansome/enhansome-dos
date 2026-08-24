@@ -2,7 +2,7 @@
 
 Family of operating systems for x86-based personal computers including IBM PC DOS and MS-DOS that were popular during the 1980s and early 1990s.
 
-[<img src="logo.svg" align="right" width="100">](https://github.com/balintkissdev/awesome-dos) ⭐ 627 | 🐛 1 | 📅 2025-08-25
+[<img src="logo.svg" align="right" width="100">](https://github.com/balintkissdev/awesome-dos) ⭐ 629 | 🐛 1 | 📅 2025-08-25
 
 A curated list of references for development of DOS applications and learning
 about the system itself. This includes list of compilers, tutorials, videos,
@@ -52,7 +52,7 @@ platform.
 ### Scripting languages and interpreters for DOS
 
 * [DOjS](https://github.com/SuperIlu/DOjS) ⭐ 958 | 🐛 15 | 🌐 C | 📅 2025-11-22 - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
-* [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2016-10-26 - FreeDOS ad-hoc module for [micropython](https://github.com/micropython/micropython) ⭐ 22,010 | 🐛 1,539 | 🌐 C | 📅 2026-08-18.
+* [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2016-10-26 - FreeDOS ad-hoc module for [micropython](https://github.com/micropython/micropython) ⭐ 22,009 | 🐛 1,540 | 🌐 C | 📅 2026-08-24.
 * [Lua for DOS](https://archive.org/details/lua5.3.5) - Online demo of Lua 5.3.5, compiled for MS-DOS on the Intel 80486 processor.
 * [perldos](https://perldoc.perl.org/perldos) - Perl for DOS.
 * [PythonD](http://www.caddit.net/pythond/) - Python for DOS, including multi-threading, networking and OpenGL.
@@ -188,7 +188,7 @@ platform.
 
 ### Open source DOS libraries
 
-* [Allegro 4.2](https://github.com/liballeg/allegro5/tree/v4-2-3-1) ⭐ 2,119 | 🐛 392 | 🌐 C | 📅 2026-08-17 - Game development library for DOS, Windows and Linux. 4.2 version supports DOS platform.
+* [Allegro 4.2](https://github.com/liballeg/allegro5/tree/v4-2-3-1) ⭐ 2,120 | 🐛 392 | 🌐 C | 📅 2026-08-17 - Game development library for DOS, Windows and Linux. 4.2 version supports DOS platform.
   * [Allegro 4.2.1 PDF documentation.](https://download.tuxfamily.org/allegro/allegro-manual/4.2.1/allegro-manual-4.2.1.en.pdf)
 * [LoveDOS](https://github.com/rxi/lovedos) ⚠️ Archived - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
 * [DIGPAK sound drivers source code](https://github.com/jratcliff63367/digpak) ⭐ 37 | 🐛 2 | 🌐 Assembly | 📅 2021-11-23 - Original source code for the DIGPAK sound drivers uploaded to GitHub by John W. Ratcliff.
@@ -200,10 +200,10 @@ platform.
 
 List of all homebrew DOS games: <http://www.doshaven.eu>
 
-* [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,876 | 🐛 140 | 🌐 C | 📅 2026-08-24 - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
+* [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,876 | 🐛 141 | 🌐 C | 📅 2026-08-24 - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
 * [Floppy Bird](https://github.com/icebreaker/floppybird) ⭐ 936 | 🐛 3 | 🌐 Assembly | 📅 2020-04-01 - Flappy Bird clone written in 16 bit assembly. Not a DOS program, but a PC-Booter application instead (although it's also possible to build a COM executable for DOS).
 * [DOS Defender](https://github.com/skeeto/dosdefender-ld31) ⭐ 138 | 🐛 2 | 🌐 C | 📅 2023-09-11 - Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.
-* [Dungeons of Noudar](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar) ⭐ 60 | 🐛 4 | 🌐 C++ | 📅 2026-08-23 - First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).
+* [Dungeons of Noudar](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar) ⭐ 61 | 🐛 4 | 🌐 C++ | 📅 2026-08-23 - First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).
 * [Ptakovina](https://github.com/berk76/tetris) ⭐ 22 | 🐛 0 | 🌐 C | 📅 2024-11-23 - Tetris clone written in C. Runs on DOS, Unix/Linux, ZX Spectrum and Windows.
 * [Plutonium Caverns](https://github.com/jani-nykanen/plutonium-caverns) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2019-06-08 - Overhead puzzle game written in C. Web version uses [DOSBox ported to Emscripten](https://github.com/dreamlayers/em-dosbox) ⭐ 1,286 | 🐛 30 | 🌐 C++ | 📅 2023-01-07 to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.
 * [x86 pong](https://github.com/spacerace/x86-pong) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2018-09-29 - Text-mode Pong clone written in C. Runs as PC-Booter game and under DOS.
@@ -231,8 +231,8 @@ List of all homebrew DOS games: <http://www.doshaven.eu>
 
 #### Commercial games with published source code
 
-* [Doom](https://github.com/id-Software/DOOM) ⭐ 19,453 | 🐛 15 | 🌐 C++ | 📅 2024-05-24 - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
-* [Quake](https://github.com/id-Software/Quake) ⭐ 6,022 | 🐛 4 | 🌐 C | 📅 2024-06-15 - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
+* [Doom](https://github.com/id-Software/DOOM) ⭐ 19,454 | 🐛 15 | 🌐 C++ | 📅 2024-05-24 - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
+* [Quake](https://github.com/id-Software/Quake) ⭐ 6,023 | 🐛 4 | 🌐 C | 📅 2024-06-15 - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
   * [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Code analysis by Fabien Sanglard.
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d) ⭐ 2,524 | 🐛 1 | 📅 2012-02-06 - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.
 * [Commander Keen in Keen Dreams](https://github.com/keendreams/keen) ⭐ 1,966 | 🐛 5 | 🌐 C | 📅 2014-11-12 - Side-scrolling platform game developed by id Software. Keen Dreams is the Commander Keen game created between Keen 3 and Keen 4 (often considered "Keen 3.5"), but was not widely released. Written in C and assembly.
@@ -259,7 +259,7 @@ List of all homebrew DOS games: <http://www.doshaven.eu>
 ### Sound card emulators
 
 * [SBEMU](https://github.com/crazii/SBEMU) ⭐ 779 | 🐛 99 | 🌐 C | 📅 2026-08-23 - A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!
-* [VSB](https://github.com/Baron-von-Riedesel/VSBHDA) ⭐ 153 | 🐛 46 | 🌐 C | 📅 2026-08-21 - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
+* [VSB](https://github.com/Baron-von-Riedesel/VSBHDA) ⭐ 153 | 🐛 46 | 🌐 C | 📅 2026-08-24 - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
 
 ***
 
