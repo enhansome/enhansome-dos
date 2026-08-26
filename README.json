@@ -27,7 +27,7 @@
             "archived": false,
             "id": 5390641,
             "language": "C",
-            "last_commit": "2026-08-25T03:26:51Z",
+            "last_commit": "2026-08-26T03:36:33Z",
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
             "stars": 1254
@@ -127,7 +127,7 @@
                 "last_commit": "2024-04-25T22:32:47Z",
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32279
+                "stars": 32280
               }
             }
           ],
@@ -215,10 +215,10 @@
                     "archived": false,
                     "id": 47593546,
                     "language": "C",
-                    "last_commit": "2026-08-24T16:10:04Z",
+                    "last_commit": "2026-08-25T06:37:28Z",
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3876
+                    "stars": 3877
                   }
                 },
                 {
@@ -260,7 +260,7 @@
                     "archived": false,
                     "id": 68463261,
                     "language": "C++",
-                    "last_commit": "2026-08-23T08:12:50Z",
+                    "last_commit": "2026-08-25T17:17:36Z",
                     "owner": "TheFakeMontyOnTheRun",
                     "repo": "dungeons-of-noudar",
                     "stars": 62
@@ -358,7 +358,7 @@
                         "last_commit": "2019-01-19T04:39:16Z",
                         "owner": "porta2note",
                         "repo": "gridfighter3d",
-                        "stars": 4
+                        "stars": 5
                       }
                     }
                   ]
@@ -382,7 +382,7 @@
                     "last_commit": "2024-05-24T13:18:59Z",
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19456
+                    "stars": 19457
                   }
                 },
                 {
@@ -397,7 +397,7 @@
                     "last_commit": "2024-06-15T17:16:08Z",
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6025
+                    "stars": 6027
                   }
                 },
                 {
@@ -592,7 +592,7 @@
                 "archived": false,
                 "id": 602517313,
                 "language": "C",
-                "last_commit": "2026-08-24T11:58:11Z",
+                "last_commit": "2026-08-25T16:05:05Z",
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
                 "stars": 154
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:22.287Z",
+    "last_updated": "2026-08-26T04:29:00.710Z",
     "original_repository": "balintkissdev/awesome-dos",
     "original_repository_id": 194946088,
     "original_repository_sha": "28547f89e7a5fe70ed644603305167c8f4df711b",

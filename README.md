@@ -2,7 +2,7 @@
 
 Family of operating systems for x86-based personal computers including IBM PC DOS and MS-DOS that were popular during the 1980s and early 1990s.
 
-[<img src="logo.svg" align="right" width="100">](https://github.com/balintkissdev/awesome-dos) ⭐ 631 | 🐛 1 | 📅 2025-08-25
+[<img src="logo.svg" align="right" width="100">](https://github.com/balintkissdev/awesome-dos) ⭐ 632 | 🐛 1 | 📅 2025-08-25
 
 A curated list of references for development of DOS applications and learning
 about the system itself. This includes list of compilers, tutorials, videos,
@@ -26,7 +26,7 @@ platform.
 ## Development tools
 
 * [SmallerC](https://github.com/alexfru/SmallerC.git) ⭐ 1,577 | 🐛 6 | 🌐 C | 📅 2024-12-22 - Portable self-hosting C compiler capable of producing executables for a number of platforms, including real and protected mode DOS programs, by Alexei A. Frounze.
-* [Open Watcom V2](https://github.com/open-watcom/open-watcom-v2) ⭐ 1,254 | 🐛 273 | 🌐 C | 📅 2026-08-25 - GitHub fork which is actively maintained and is
+* [Open Watcom V2](https://github.com/open-watcom/open-watcom-v2) ⭐ 1,254 | 🐛 273 | 🌐 C | 📅 2026-08-26 - GitHub fork which is actively maintained and is
   ported to 64-bit Windows and Linux.
 * [Small-C Toolkit](https://github.com/humbertocsjr/Small-C.git) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2023-06-16 - A self-hosting Small-C Compiler Toolkit for DOS(8086) with: K\&R C Compiler, Make, Linker, Assembler. First released in 1982 by Jim E. Hendrix.
 * [bcc - Bruce's C Compiler](https://gitlab.com/FreeDOS/devel/bcc) - Bruce's C compiler is a simple C compiler that produces 8086 assembler for tiny/small memory models.
@@ -52,7 +52,7 @@ platform.
 ### Scripting languages and interpreters for DOS
 
 * [DOjS](https://github.com/SuperIlu/DOjS) ⭐ 958 | 🐛 15 | 🌐 C | 📅 2025-11-22 - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
-* [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2016-10-26 - FreeDOS ad-hoc module for [micropython](https://github.com/micropython/micropython) ⭐ 22,010 | 🐛 1,536 | 🌐 C | 📅 2026-08-25.
+* [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2016-10-26 - FreeDOS ad-hoc module for [micropython](https://github.com/micropython/micropython) ⭐ 22,010 | 🐛 1,531 | 🌐 C | 📅 2026-08-26.
 * [Lua for DOS](https://archive.org/details/lua5.3.5) - Online demo of Lua 5.3.5, compiled for MS-DOS on the Intel 80486 processor.
 * [perldos](https://perldoc.perl.org/perldos) - Perl for DOS.
 * [PythonD](http://www.caddit.net/pythond/) - Python for DOS, including multi-threading, networking and OpenGL.
@@ -200,10 +200,10 @@ platform.
 
 List of all homebrew DOS games: <http://www.doshaven.eu>
 
-* [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,876 | 🐛 139 | 🌐 C | 📅 2026-08-24 - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
+* [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,877 | 🐛 138 | 🌐 C | 📅 2026-08-25 - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
 * [Floppy Bird](https://github.com/icebreaker/floppybird) ⭐ 936 | 🐛 3 | 🌐 Assembly | 📅 2020-04-01 - Flappy Bird clone written in 16 bit assembly. Not a DOS program, but a PC-Booter application instead (although it's also possible to build a COM executable for DOS).
 * [DOS Defender](https://github.com/skeeto/dosdefender-ld31) ⭐ 138 | 🐛 2 | 🌐 C | 📅 2023-09-11 - Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.
-* [Dungeons of Noudar](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar) ⭐ 62 | 🐛 4 | 🌐 C++ | 📅 2026-08-23 - First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).
+* [Dungeons of Noudar](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar) ⭐ 62 | 🐛 4 | 🌐 C++ | 📅 2026-08-25 - First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).
 * [Ptakovina](https://github.com/berk76/tetris) ⭐ 22 | 🐛 0 | 🌐 C | 📅 2024-11-23 - Tetris clone written in C. Runs on DOS, Unix/Linux, ZX Spectrum and Windows.
 * [Plutonium Caverns](https://github.com/jani-nykanen/plutonium-caverns) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2019-06-08 - Overhead puzzle game written in C. Web version uses [DOSBox ported to Emscripten](https://github.com/dreamlayers/em-dosbox) ⭐ 1,286 | 🐛 30 | 🌐 C++ | 📅 2023-01-07 to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.
 * [x86 pong](https://github.com/spacerace/x86-pong) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2018-09-29 - Text-mode Pong clone written in C. Runs as PC-Booter game and under DOS.
@@ -213,7 +213,7 @@ List of all homebrew DOS games: <http://www.doshaven.eu>
 * [George M. Tzoumas's collection of MS-DOS games and utilities](http://web.archive.org/web/20191225101138/http://cgi.di.uoa.gr/~geotz/dos/) - Turbo Pascal with few games in C and C++. Games include Nibbles, Connect Four, Ms Pacman clone and two arcade/platform games. One of them (ra2) was written using Allegro. Utilities are all written in Turbo Pascal, these include game system routines, file and disk utilities and terminate-and-stay-resident programs (TSR).
 * [Gold Mine Run!](https://www.usebox.net/jjm/gold-mine-run/) - Platformer written in C using DJGPP.
 * [Gridfighter 3D](https://porta2note.itch.io/gridfighter-3d) - '80s style arcade shooter written in Quickbasic. Also the very first known DOS game that supports Oculus Rift VR headset.
-  * [GitHub repository](https://github.com/porta2note/gridfighter3d) ⭐ 4 | 🐛 0 | 🌐 Visual Basic | 📅 2019-01-19
+  * [GitHub repository](https://github.com/porta2note/gridfighter3d) ⭐ 5 | 🐛 0 | 🌐 Visual Basic | 📅 2019-01-19
 * [Hangman](https://sourceforge.net/projects/hangman-dos/) - Hangman clone written in Basic. Runs on at least 80286 processors and uses EGA graphics.
 * [Magenta's Maze](https://archive.org/details/MAGSMAZE) - 3D maze game using CGA graphics with algebra as theme.
   * [Source code download link](http://www.doshaven.eu/downloads/537)
@@ -231,8 +231,8 @@ List of all homebrew DOS games: <http://www.doshaven.eu>
 
 #### Commercial games with published source code
 
-* [Doom](https://github.com/id-Software/DOOM) ⭐ 19,456 | 🐛 15 | 🌐 C++ | 📅 2024-05-24 - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
-* [Quake](https://github.com/id-Software/Quake) ⭐ 6,025 | 🐛 4 | 🌐 C | 📅 2024-06-15 - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
+* [Doom](https://github.com/id-Software/DOOM) ⭐ 19,457 | 🐛 15 | 🌐 C++ | 📅 2024-05-24 - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
+* [Quake](https://github.com/id-Software/Quake) ⭐ 6,027 | 🐛 4 | 🌐 C | 📅 2024-06-15 - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
   * [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Code analysis by Fabien Sanglard.
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d) ⭐ 2,525 | 🐛 1 | 📅 2012-02-06 - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.
 * [Commander Keen in Keen Dreams](https://github.com/keendreams/keen) ⭐ 1,968 | 🐛 5 | 🌐 C | 📅 2014-11-12 - Side-scrolling platform game developed by id Software. Keen Dreams is the Commander Keen game created between Keen 3 and Keen 4 (often considered "Keen 3.5"), but was not widely released. Written in C and assembly.
@@ -259,8 +259,8 @@ List of all homebrew DOS games: <http://www.doshaven.eu>
 ### Sound card emulators
 
 * [SBEMU](https://github.com/crazii/SBEMU) ⭐ 779 | 🐛 99 | 🌐 C | 📅 2026-08-23 - A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!
-* [VSB](https://github.com/Baron-von-Riedesel/VSBHDA) ⭐ 154 | 🐛 46 | 🌐 C | 📅 2026-08-24 - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
+* [VSB](https://github.com/Baron-von-Riedesel/VSBHDA) ⭐ 154 | 🐛 46 | 🌐 C | 📅 2026-08-25 - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
