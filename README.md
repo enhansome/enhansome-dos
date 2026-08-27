@@ -52,7 +52,7 @@ platform.
 ### Scripting languages and interpreters for DOS
 
 * [DOjS](https://github.com/SuperIlu/DOjS) ⭐ 958 | 🐛 15 | 🌐 C | 📅 2025-11-22 - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
-* [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2016-10-26 - FreeDOS ad-hoc module for [micropython](https://github.com/micropython/micropython) ⭐ 22,012 | 🐛 1,536 | 🌐 C | 📅 2026-08-27.
+* [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2016-10-26 - FreeDOS ad-hoc module for [micropython](https://github.com/micropython/micropython) ⭐ 22,013 | 🐛 1,536 | 🌐 C | 📅 2026-08-27.
 * [Lua for DOS](https://archive.org/details/lua5.3.5) - Online demo of Lua 5.3.5, compiled for MS-DOS on the Intel 80486 processor.
 * [perldos](https://perldoc.perl.org/perldos) - Perl for DOS.
 * [PythonD](http://www.caddit.net/pythond/) - Python for DOS, including multi-threading, networking and OpenGL.
@@ -231,7 +231,7 @@ List of all homebrew DOS games: <http://www.doshaven.eu>
 
 #### Commercial games with published source code
 
-* [Doom](https://github.com/id-Software/DOOM) ⭐ 19,467 | 🐛 15 | 🌐 C++ | 📅 2024-05-24 - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
+* [Doom](https://github.com/id-Software/DOOM) ⭐ 19,468 | 🐛 15 | 🌐 C++ | 📅 2024-05-24 - Sci-fi FPS developed by id Software where you fight demons from hell on Mars. The DOS-specific code for Doom could not be published because of a dependency to the licensed DMX sound library, hence why it's cleaned up and only the Linux source is there. However, the Heretic and Hexen projects contain the original DOS code in a way where DMX-related code is removed.
 * [Quake](https://github.com/id-Software/Quake) ⭐ 6,029 | 🐛 4 | 🌐 C | 📅 2024-06-15 - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
   * [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Code analysis by Fabien Sanglard.
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d) ⭐ 2,525 | 🐛 1 | 📅 2012-02-06 - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.

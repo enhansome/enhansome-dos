@@ -27,7 +27,7 @@
             "archived": false,
             "id": 5390641,
             "language": "C",
-            "last_commit": "2026-08-27T08:12:56Z",
+            "last_commit": "2026-08-27T11:38:17Z",
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
             "stars": 1253
@@ -127,7 +127,7 @@
                 "last_commit": "2024-04-25T22:32:47Z",
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32280
+                "stars": 32281
               }
             }
           ],
@@ -382,7 +382,7 @@
                     "last_commit": "2024-05-24T13:18:59Z",
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19467
+                    "stars": 19468
                   }
                 },
                 {
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:59.816Z",
+    "last_updated": "2026-08-27T14:50:32.475Z",
     "original_repository_info": {
       "archived": false,
       "id": 194946088,
