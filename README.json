@@ -27,10 +27,10 @@
             "archived": false,
             "id": 5390641,
             "language": "C",
-            "last_commit": "2026-08-26T03:36:33Z",
+            "last_commit": "2026-08-27T08:12:56Z",
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
-            "stars": 1254
+            "stars": 1253
           }
         },
         {
@@ -149,7 +149,7 @@
                 "last_commit": "2026-08-17T08:16:03Z",
                 "owner": "liballeg",
                 "repo": "allegro5",
-                "stars": 2120
+                "stars": 2119
               }
             },
             {
@@ -215,10 +215,10 @@
                     "archived": false,
                     "id": 47593546,
                     "language": "C",
-                    "last_commit": "2026-08-25T06:37:28Z",
+                    "last_commit": "2026-08-27T02:15:04Z",
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3877
+                    "stars": 3881
                   }
                 },
                 {
@@ -382,7 +382,7 @@
                     "last_commit": "2024-05-24T13:18:59Z",
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19457
+                    "stars": 19467
                   }
                 },
                 {
@@ -397,7 +397,7 @@
                     "last_commit": "2024-06-15T17:16:08Z",
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6027
+                    "stars": 6029
                   }
                 },
                 {
@@ -608,9 +608,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:29:00.710Z",
-    "original_repository": "balintkissdev/awesome-dos",
-    "original_repository_id": 194946088,
+    "last_updated": "2026-08-27T11:37:59.816Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 194946088,
+      "language": null,
+      "last_commit": "2025-08-25T18:30:42Z",
+      "owner": "balintkissdev",
+      "repo": "awesome-dos",
+      "stars": 633
+    },
     "original_repository_sha": "28547f89e7a5fe70ed644603305167c8f4df711b",
     "enhanced_repository": "enhansome/enhansome-dos",
     "enhanced_repository_description": null,
