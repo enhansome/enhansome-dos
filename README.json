@@ -16,7 +16,8 @@
             "owner": "alexfru",
             "repo": "SmallerC",
             "stars": 1577
-          }
+          },
+          "first_seen": "2026-08-28T15:45:15.613Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 5390641,
             "language": "C",
-            "last_commit": "2026-08-27T11:38:17Z",
+            "last_commit": "2026-08-28T13:09:45Z",
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
             "stars": 1253
-          }
+          },
+          "first_seen": "2026-08-28T15:45:15.613Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "humbertocsjr",
             "repo": "Small-C",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:45:15.613Z"
         },
         {
           "children": [
@@ -63,7 +66,8 @@
                 "owner": "sudleyplace",
                 "repo": "386MAX",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T15:45:15.613Z"
             }
           ],
           "description": null,
@@ -84,8 +88,9 @@
                 "last_commit": "2025-11-22T15:47:48Z",
                 "owner": "SuperIlu",
                 "repo": "DOjS",
-                "stars": 958
-              }
+                "stars": 959
+              },
+              "first_seen": "2026-08-28T15:45:15.613Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "pohmelie",
                 "repo": "micropython-freedos",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T15:45:15.613Z"
             }
           ],
           "description": null,
@@ -128,7 +134,8 @@
                 "owner": "microsoft",
                 "repo": "MS-DOS",
                 "stars": 32281
-              }
+              },
+              "first_seen": "2026-08-28T15:45:15.613Z"
             }
           ],
           "description": null,
@@ -150,7 +157,8 @@
                 "owner": "liballeg",
                 "repo": "allegro5",
                 "stars": 2119
-              }
+              },
+              "first_seen": "2026-08-28T15:45:15.613Z"
             },
             {
               "node_type": "item",
@@ -165,7 +173,8 @@
                 "owner": "rxi",
                 "repo": "lovedos",
                 "stars": 706
-              }
+              },
+              "first_seen": "2026-08-28T15:45:15.613Z"
             },
             {
               "node_type": "item",
@@ -180,7 +189,8 @@
                 "owner": "jratcliff63367",
                 "repo": "digpak",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T15:45:15.613Z"
             },
             {
               "node_type": "item",
@@ -195,7 +205,8 @@
                 "owner": "marcomarrero",
                 "repo": "DOS-VGA-Game",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T15:45:15.613Z"
             }
           ],
           "description": null,
@@ -218,8 +229,9 @@
                     "last_commit": "2026-08-27T02:15:04Z",
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3881
-                  }
+                    "stars": 3883
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -234,7 +246,8 @@
                     "owner": "icebreaker",
                     "repo": "floppybird",
                     "stars": 936
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -249,7 +262,8 @@
                     "owner": "skeeto",
                     "repo": "dosdefender-ld31",
                     "stars": 138
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -264,7 +278,8 @@
                     "owner": "TheFakeMontyOnTheRun",
                     "repo": "dungeons-of-noudar",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -279,7 +294,8 @@
                     "owner": "oldcompcz",
                     "repo": "tetris",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -294,7 +310,8 @@
                     "owner": "jani-nykanen",
                     "repo": "plutonium-caverns",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -309,7 +326,8 @@
                     "owner": "spacerace",
                     "repo": "x86-pong",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -324,7 +342,8 @@
                     "owner": "oldcompcz",
                     "repo": "piskworks",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -339,7 +358,8 @@
                     "owner": "sblendorio",
                     "repo": "hanoi-dos",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "group",
@@ -359,7 +379,8 @@
                         "owner": "porta2note",
                         "repo": "gridfighter3d",
                         "stars": 5
-                      }
+                      },
+                      "first_seen": "2026-08-28T15:45:15.613Z"
                     }
                   ]
                 }
@@ -382,8 +403,9 @@
                     "last_commit": "2024-05-24T13:18:59Z",
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19468
-                  }
+                    "stars": 19473
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -397,8 +419,9 @@
                     "last_commit": "2024-06-15T17:16:08Z",
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6029
-                  }
+                    "stars": 6031
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -412,8 +435,9 @@
                     "last_commit": "2012-02-06T16:40:38Z",
                     "owner": "id-Software",
                     "repo": "wolf3d",
-                    "stars": 2525
-                  }
+                    "stars": 2526
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -427,8 +451,9 @@
                     "last_commit": "2014-11-12T20:12:32Z",
                     "owner": "keendreams",
                     "repo": "keen",
-                    "stars": 1968
-                  }
+                    "stars": 1969
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -443,7 +468,8 @@
                     "owner": "videogamepreservation",
                     "repo": "descent",
                     "stars": 430
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -458,7 +484,8 @@
                     "owner": "FlatRockSoft",
                     "repo": "Hovertank3D",
                     "stars": 256
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -473,7 +500,8 @@
                     "owner": "CatacombGames",
                     "repo": "Catacomb3D",
                     "stars": 206
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -488,7 +516,8 @@
                     "owner": "CatacombGames",
                     "repo": "Catacomb",
                     "stars": 145
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -503,7 +532,8 @@
                     "owner": "videogamepreservation",
                     "repo": "rott",
                     "stars": 111
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -518,7 +548,8 @@
                     "owner": "videogamepreservation",
                     "repo": "descent2",
                     "stars": 94
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -533,7 +564,8 @@
                     "owner": "OpenSourcedGames",
                     "repo": "Heretic",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 },
                 {
                   "node_type": "item",
@@ -548,7 +580,8 @@
                     "owner": "OpenSourcedGames",
                     "repo": "Hexen",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:45:15.613Z"
                 }
               ],
               "description": null,
@@ -581,7 +614,8 @@
                 "owner": "crazii",
                 "repo": "SBEMU",
                 "stars": 779
-              }
+              },
+              "first_seen": "2026-08-28T15:45:15.613Z"
             },
             {
               "node_type": "item",
@@ -596,7 +630,8 @@
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T15:45:15.613Z"
             }
           ],
           "description": null,
@@ -608,7 +643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:50:32.475Z",
+    "last_updated": "2026-08-28T15:45:15.613Z",
     "original_repository_info": {
       "archived": false,
       "id": 194946088,
