@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple C compiler",
+            "homepage": null,
             "id": 6812127,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-12-22T21:12:22Z",
+            "open_issues": 6,
             "owner": "alexfru",
             "repo": "SmallerC",
-            "stars": 1577
+            "stars": 1577,
+            "topics": [
+              "c",
+              "c-compiler",
+              "compiler",
+              "dos",
+              "linux",
+              "macos",
+              "mips",
+              "self-hosting",
+              "windows",
+              "x86"
+            ]
           },
           "first_seen": "2026-08-28T15:45:15.613Z"
         },
@@ -26,12 +42,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Watcom V2.0 - Source code repository, Wiki, Latest Binary build, Archived builds including all installers for download.",
+            "homepage": null,
             "id": 5390641,
             "language": "C",
-            "last_commit": "2026-08-28T13:09:45Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:55:00Z",
+            "open_issues": 275,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
-            "stars": 1253
+            "stars": 1253,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:45:15.613Z"
         },
@@ -42,12 +63,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small-C Compiler, Assembler, Linker, Make tool, and Library for 16-bit MS-DOS.",
+            "homepage": null,
             "id": 231761607,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-16T01:51:31Z",
+            "open_issues": 0,
             "owner": "humbertocsjr",
             "repo": "Small-C",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "16-bit",
+              "8086",
+              "compiler",
+              "devkit",
+              "msdos"
+            ]
           },
           "first_seen": "2026-08-28T15:45:15.613Z"
         },
@@ -60,12 +92,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "386MAX Memory Manager for DOS",
+                "homepage": null,
                 "id": 508772787,
                 "language": "Assembly",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-05T13:24:37Z",
+                "open_issues": 0,
                 "owner": "sudleyplace",
                 "repo": "386MAX",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
             }
@@ -83,12 +120,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A MS-DOS Creative Coding IDE/platform based on JavaScript ",
+                "homepage": null,
                 "id": 170185910,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-22T15:47:48Z",
+                "open_issues": 15,
                 "owner": "SuperIlu",
                 "repo": "DOjS",
-                "stars": 959
+                "stars": 959,
+                "topics": [
+                  "3dfx",
+                  "allegro",
+                  "djgpp",
+                  "dos",
+                  "dzcomm",
+                  "freedos",
+                  "glide",
+                  "hacktoberfest",
+                  "javascript",
+                  "ms-dos",
+                  "msdos",
+                  "mujs",
+                  "p5js",
+                  "processing",
+                  "retro",
+                  "retrocomputing",
+                  "retrogaming",
+                  "voodoo-card"
+                ]
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
             },
@@ -99,12 +160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micropython ad-hoc module for FreeDos",
+                "homepage": null,
                 "id": 47025160,
                 "language": "C",
+                "license": null,
                 "last_commit": "2016-10-26T13:12:14Z",
+                "open_issues": 1,
                 "owner": "pohmelie",
                 "repo": "micropython-freedos",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
             }
@@ -128,12 +194,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes",
+                "homepage": "https://en.wikipedia.org/wiki/MS-DOS",
                 "id": 138634298,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2024-04-25T22:32:47Z",
+                "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32281
+                "stars": 32281,
+                "topics": [
+                  "ms-dos"
+                ]
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
             }
@@ -151,12 +224,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Allegro 5 git repository. Pull requests welcome!",
+                "homepage": "https://liballeg.org",
                 "id": 1005627,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T08:16:03Z",
+                "open_issues": 393,
                 "owner": "liballeg",
                 "repo": "allegro5",
-                "stars": 2119
+                "stars": 2119,
+                "topics": [
+                  "android",
+                  "audio",
+                  "c",
+                  "game-development",
+                  "linux",
+                  "macos",
+                  "opengl",
+                  "unix",
+                  "video",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
             },
@@ -167,12 +256,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A framework for making 2D DOS games in Lua",
+                "homepage": null,
                 "id": 20815377,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2017-05-06T08:32:40Z",
+                "open_issues": 8,
                 "owner": "rxi",
                 "repo": "lovedos",
-                "stars": 706
+                "stars": 706,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
             },
@@ -183,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Someone requested access to the ancient DIGIPAK sound drivers source code. I'm not sure why anyone would think this is useful but if so, have at it.",
+                "homepage": null,
                 "id": 338167346,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2021-11-23T22:34:58Z",
+                "open_issues": 2,
                 "owner": "jratcliff63367",
                 "repo": "digpak",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
             },
@@ -199,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VGA/hardware library, Assembly (TASM Ideal mode) 386 real-mode, and Turbo Pascal",
+                "homepage": null,
                 "id": 96338735,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2017-07-05T17:16:28Z",
+                "open_issues": 0,
                 "owner": "marcomarrero",
                 "repo": "DOS-VGA-Game",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
             }
@@ -224,12 +328,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official NetHack Git Repository",
+                    "homepage": null,
                     "id": 47593546,
                     "language": "C",
-                    "last_commit": "2026-08-27T02:15:04Z",
+                    "license": null,
+                    "last_commit": "2026-08-28T21:00:04Z",
+                    "open_issues": 140,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3883
+                    "stars": 3885,
+                    "topics": [
+                      "c",
+                      "game",
+                      "roguelike"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -240,12 +353,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Floppy Bird (OS)",
+                    "homepage": "http://mihail.co/floppybird",
                     "id": 17141004,
                     "language": "Assembly",
+                    "license": "MIT",
                     "last_commit": "2020-04-01T19:49:44Z",
+                    "open_issues": 3,
                     "owner": "icebreaker",
                     "repo": "floppybird",
-                    "stars": 936
+                    "stars": 936,
+                    "topics": [
+                      "assembly",
+                      "boot",
+                      "bootable",
+                      "dos",
+                      "flappy-bird",
+                      "floppy",
+                      "game",
+                      "iso",
+                      "kernel",
+                      "os",
+                      "qemu"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -256,12 +386,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DOS Defender (Ludum Dare #31)",
+                    "homepage": null,
                     "id": 27622373,
                     "language": "C",
+                    "license": "Unlicense",
                     "last_commit": "2023-09-11T04:45:58Z",
+                    "open_issues": 2,
                     "owner": "skeeto",
                     "repo": "dosdefender-ld31",
-                    "stars": 138
+                    "stars": 138,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -272,12 +407,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A first person dungeon-crawler for DOS, written in C++, using software rendering and fixed point math",
+                    "homepage": null,
                     "id": 68463261,
                     "language": "C++",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-08-25T17:17:36Z",
+                    "open_issues": 4,
                     "owner": "TheFakeMontyOnTheRun",
                     "repo": "dungeons-of-noudar",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": [
+                      "djgpp",
+                      "dungeon",
+                      "dungeons",
+                      "freedos",
+                      "mode13h",
+                      "msdos",
+                      "person-dungeon-crawler",
+                      "rpg",
+                      "sdl",
+                      "vga"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -288,12 +439,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ASCII Art Tetris",
+                    "homepage": "http://www.doshaven.eu/game/ptakovina/",
                     "id": 104647517,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-11-23T21:44:39Z",
+                    "open_issues": 0,
                     "owner": "oldcompcz",
                     "repo": "tetris",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "ascii-art",
+                      "dos",
+                      "game",
+                      "hvdosdev2017",
+                      "win32",
+                      "z88dk",
+                      "zx-spectrum"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -304,12 +468,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A puzzle game for MS-DOS.",
+                    "homepage": null,
                     "id": 179880997,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2019-06-08T09:37:36Z",
+                    "open_issues": 0,
                     "owner": "jani-nykanen",
                     "repo": "plutonium-caverns",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -320,12 +489,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A pong game that runs on bare metal PCs or DOS (so called \"PC-BOOTER\")",
+                    "homepage": null,
                     "id": 100756645,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2018-09-29T10:07:10Z",
+                    "open_issues": 0,
                     "owner": "spacerace",
                     "repo": "x86-pong",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "bare-metal",
+                      "bcc",
+                      "dev86",
+                      "pc-booter",
+                      "pong",
+                      "pong-game",
+                      "x86"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -336,12 +518,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gomoku",
+                    "homepage": "http://www.doshaven.eu/game/piskworks/",
                     "id": 104725066,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-11-23T21:33:22Z",
+                    "open_issues": 0,
                     "owner": "oldcompcz",
                     "repo": "piskworks",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "as400",
+                      "cli",
+                      "dos",
+                      "game",
+                      "linux",
+                      "win32",
+                      "z88dk",
+                      "zx-spectrum",
+                      "zx80",
+                      "zx81"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -352,12 +550,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Towers of Hanoi - MS DOS version",
+                    "homepage": null,
                     "id": 44633023,
                     "language": "Pascal",
+                    "license": "GPL-2.0",
                     "last_commit": "2015-10-20T20:33:35Z",
+                    "open_issues": 0,
                     "owner": "sblendorio",
                     "repo": "hanoi-dos",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -373,12 +576,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Gridfighter 3D",
+                        "homepage": null,
                         "id": 112911183,
                         "language": "Visual Basic",
+                        "license": "GPL-3.0",
                         "last_commit": "2019-01-19T04:39:16Z",
+                        "open_issues": 0,
                         "owner": "porta2note",
                         "repo": "gridfighter3d",
-                        "stars": 5
+                        "stars": 5,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T15:45:15.613Z"
                     }
@@ -398,12 +606,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DOOM Open Source Release",
+                    "homepage": null,
                     "id": 3319040,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-05-24T13:18:59Z",
+                    "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19473
+                    "stars": 19475,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -414,12 +627,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Quake GPL Source Release",
+                    "homepage": null,
                     "id": 3318531,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2024-06-15T17:16:08Z",
+                    "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6031
+                    "stars": 6032,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -430,12 +648,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The original open source release of Wolfenstein 3D",
+                    "homepage": null,
                     "id": 3368503,
                     "language": null,
+                    "license": null,
                     "last_commit": "2012-02-06T16:40:38Z",
+                    "open_issues": 1,
                     "owner": "id-Software",
                     "repo": "wolf3d",
-                    "stars": 2526
+                    "stars": 2526,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -446,12 +669,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Keen Dreams on Greenlight!",
+                    "homepage": "http://steamcommunity.com/sharedfiles/filedetails/?id=315040793",
                     "id": 24094708,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2014-11-12T20:12:32Z",
+                    "open_issues": 5,
                     "owner": "keendreams",
                     "repo": "keen",
-                    "stars": 1969
+                    "stars": 1969,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -462,12 +690,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Descent (1995) by Parallax Software Corp.",
+                    "homepage": null,
                     "id": 6510495,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2018-10-13T08:30:43Z",
+                    "open_issues": 0,
                     "owner": "videogamepreservation",
                     "repo": "descent",
-                    "stars": 430
+                    "stars": 430,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -478,12 +711,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GPL release of Hovertank 3D source code.",
+                    "homepage": null,
                     "id": 20498290,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2014-06-04T20:16:40Z",
+                    "open_issues": 0,
                     "owner": "FlatRockSoft",
                     "repo": "Hovertank3D",
-                    "stars": 256
+                    "stars": 256,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -494,12 +732,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Catacomb 3D source code",
+                    "homepage": "https://catacomb.games",
                     "id": 20545379,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2014-06-05T23:54:01Z",
+                    "open_issues": 0,
                     "owner": "CatacombGames",
                     "repo": "Catacomb3D",
-                    "stars": 206
+                    "stars": 206,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -510,12 +753,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Catacomb source code",
+                    "homepage": "https://catacomb.games",
                     "id": 20518692,
                     "language": null,
+                    "license": "GPL-2.0",
                     "last_commit": "2014-06-05T09:08:48Z",
+                    "open_issues": 0,
                     "owner": "CatacombGames",
                     "repo": "Catacomb",
-                    "stars": 145
+                    "stars": 145,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -526,12 +774,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Rise of the Triad: Dark War (1994) by Apogee Software, Ltd.",
+                    "homepage": null,
                     "id": 6525232,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2018-10-13T08:53:54Z",
+                    "open_issues": 0,
                     "owner": "videogamepreservation",
                     "repo": "rott",
-                    "stars": 111
+                    "stars": 111,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -542,12 +795,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Descent II (1996) by Parallax Software Corp.",
+                    "homepage": null,
                     "id": 6510561,
                     "language": null,
+                    "license": null,
                     "last_commit": "2012-11-02T18:36:30Z",
+                    "open_issues": 0,
                     "owner": "videogamepreservation",
                     "repo": "descent2",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -558,12 +816,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 9936000,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2013-05-08T12:39:11Z",
+                    "open_issues": 0,
                     "owner": "OpenSourcedGames",
                     "repo": "Heretic",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 },
@@ -574,12 +837,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 9935948,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2013-05-08T12:37:10Z",
+                    "open_issues": 0,
                     "owner": "OpenSourcedGames",
                     "repo": "Hexen",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
                 }
@@ -608,12 +876,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "legacy sound blaster emulation for DOS",
+                "homepage": null,
                 "id": 586904864,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-23T04:25:29Z",
+                "open_issues": 100,
                 "owner": "crazii",
                 "repo": "SBEMU",
-                "stars": 779
+                "stars": 779,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
             },
@@ -624,12 +897,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sound Blaster emulation for DOS",
+                "homepage": null,
                 "id": 602517313,
                 "language": "C",
-                "last_commit": "2026-08-25T16:05:05Z",
+                "license": null,
+                "last_commit": "2026-08-28T15:47:40Z",
+                "open_issues": 46,
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "dos",
+                  "emulation",
+                  "soundblaster"
+                ]
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
             }
@@ -643,15 +925,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:45:15.613Z",
+    "last_updated": "2026-08-29T03:59:00.652Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of references for development of DOS applications.",
+      "homepage": null,
       "id": 194946088,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-08-25T18:30:42Z",
+      "open_issues": 1,
       "owner": "balintkissdev",
       "repo": "awesome-dos",
-      "stars": 633
+      "stars": 633,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dos",
+        "lists",
+        "ms-dos",
+        "resources",
+        "retrogaming",
+        "retroprogramming"
+      ]
     },
     "original_repository_sha": "28547f89e7a5fe70ed644603305167c8f4df711b",
     "enhanced_repository": "enhansome/enhansome-dos",
