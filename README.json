@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "alexfru",
             "repo": "SmallerC",
-            "stars": 1578,
+            "stars": 1579,
             "topics": [
               "c",
               "c-compiler",
@@ -47,11 +47,11 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T07:17:12Z",
-            "open_issues": 276,
+            "last_commit": "2026-09-01T07:04:46Z",
+            "open_issues": 275,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
-            "stars": 1255,
+            "stars": 1256,
             "topics": []
           },
           "first_seen": "2026-08-28T15:45:15.613Z"
@@ -129,7 +129,7 @@
                 "open_issues": 15,
                 "owner": "SuperIlu",
                 "repo": "DOjS",
-                "stars": 961,
+                "stars": 962,
                 "topics": [
                   "3dfx",
                   "allegro",
@@ -203,7 +203,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32281,
+                "stars": 32280,
                 "topics": [
                   "ms-dos"
                 ]
@@ -230,10 +230,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-17T08:16:03Z",
-                "open_issues": 393,
+                "open_issues": 394,
                 "owner": "liballeg",
                 "repo": "allegro5",
-                "stars": 2119,
+                "stars": 2121,
                 "topics": [
                   "android",
                   "audio",
@@ -333,11 +333,11 @@
                     "id": 47593546,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-08-30T18:37:17Z",
+                    "last_commit": "2026-08-31T12:10:04Z",
                     "open_issues": 142,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3887,
+                    "stars": 3888,
                     "topics": [
                       "c",
                       "game",
@@ -416,7 +416,7 @@
                     "open_issues": 4,
                     "owner": "TheFakeMontyOnTheRun",
                     "repo": "dungeons-of-noudar",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": [
                       "djgpp",
                       "dungeon",
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19484,
+                    "stars": 19495,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -657,7 +657,7 @@
                     "open_issues": 1,
                     "owner": "id-Software",
                     "repo": "wolf3d",
-                    "stars": 2528,
+                    "stars": 2532,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:12:59.005Z",
+    "last_updated": "2026-09-01T08:58:16.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
@@ -937,7 +937,7 @@
       "open_issues": 1,
       "owner": "balintkissdev",
       "repo": "awesome-dos",
-      "stars": 633,
+      "stars": 634,
       "topics": [
         "awesome",
         "awesome-list",
