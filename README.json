@@ -47,7 +47,7 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T01:35:56Z",
+            "last_commit": "2026-09-04T06:20:35Z",
             "open_issues": 276,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
@@ -265,7 +265,7 @@
                 "open_issues": 8,
                 "owner": "rxi",
                 "repo": "lovedos",
-                "stars": 706,
+                "stars": 705,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
@@ -334,10 +334,10 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-09-02T10:50:03Z",
-                    "open_issues": 143,
+                    "open_issues": 142,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3889,
+                    "stars": 3891,
                     "topics": [
                       "c",
                       "game",
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19508,
+                    "stars": 19511,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -636,7 +636,7 @@
                     "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6042,
+                    "stars": 6043,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -901,8 +901,8 @@
                 "homepage": null,
                 "id": 602517313,
                 "language": "C",
-                "license": null,
-                "last_commit": "2026-09-03T02:34:43Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-09-04T02:24:09Z",
                 "open_issues": 46,
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:21:30.056Z",
+    "last_updated": "2026-09-04T08:17:27.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
