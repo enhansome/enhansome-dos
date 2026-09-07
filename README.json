@@ -51,7 +51,7 @@
             "open_issues": 276,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
-            "stars": 1261,
+            "stars": 1262,
             "topics": []
           },
           "first_seen": "2026-08-28T15:45:15.613Z"
@@ -203,7 +203,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32282,
+                "stars": 32283,
                 "topics": [
                   "ms-dos"
                 ]
@@ -233,7 +233,7 @@
                 "open_issues": 394,
                 "owner": "liballeg",
                 "repo": "allegro5",
-                "stars": 2123,
+                "stars": 2124,
                 "topics": [
                   "android",
                   "audio",
@@ -333,11 +333,11 @@
                     "id": 47593546,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-05T17:25:03Z",
-                    "open_issues": 142,
+                    "last_commit": "2026-09-06T22:37:27Z",
+                    "open_issues": 146,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3892,
+                    "stars": 3895,
                     "topics": [
                       "c",
                       "game",
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19520,
+                    "stars": 19521,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -636,7 +636,7 @@
                     "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6046,
+                    "stars": 6048,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -657,7 +657,7 @@
                     "open_issues": 1,
                     "owner": "id-Software",
                     "repo": "wolf3d",
-                    "stars": 2535,
+                    "stars": 2534,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:11:15.709Z",
+    "last_updated": "2026-09-07T08:42:50.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
