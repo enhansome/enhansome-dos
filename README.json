@@ -47,7 +47,7 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T06:31:16Z",
+            "last_commit": "2026-09-14T09:09:36Z",
             "open_issues": 274,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
@@ -229,8 +229,8 @@
                 "id": 1005627,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-17T08:16:03Z",
-                "open_issues": 395,
+                "last_commit": "2026-09-13T08:58:31Z",
+                "open_issues": 393,
                 "owner": "liballeg",
                 "repo": "allegro5",
                 "stars": 2125,
@@ -333,8 +333,8 @@
                     "id": 47593546,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-11T18:37:16Z",
-                    "open_issues": 143,
+                    "last_commit": "2026-09-13T12:45:03Z",
+                    "open_issues": 144,
                     "owner": "NetHack",
                     "repo": "NetHack",
                     "stars": 3904,
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19543,
+                    "stars": 19548,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -636,7 +636,7 @@
                     "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6050,
+                    "stars": 6051,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -657,7 +657,7 @@
                     "open_issues": 1,
                     "owner": "id-Software",
                     "repo": "wolf3d",
-                    "stars": 2538,
+                    "stars": 2539,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -720,7 +720,7 @@
                     "open_issues": 0,
                     "owner": "FlatRockSoft",
                     "repo": "Hovertank3D",
-                    "stars": 256,
+                    "stars": 257,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T08:36:17.380Z",
+    "last_updated": "2026-09-14T09:20:18.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
@@ -937,7 +937,7 @@
       "open_issues": 1,
       "owner": "balintkissdev",
       "repo": "awesome-dos",
-      "stars": 634,
+      "stars": 635,
       "topics": [
         "awesome",
         "awesome-list",
