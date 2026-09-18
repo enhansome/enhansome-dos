@@ -47,11 +47,11 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T08:42:55Z",
+            "last_commit": "2026-09-18T06:37:06Z",
             "open_issues": 274,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
-            "stars": 1267,
+            "stars": 1268,
             "topics": []
           },
           "first_seen": "2026-08-28T15:45:15.613Z"
@@ -129,7 +129,7 @@
                 "open_issues": 15,
                 "owner": "SuperIlu",
                 "repo": "DOjS",
-                "stars": 962,
+                "stars": 963,
                 "topics": [
                   "3dfx",
                   "allegro",
@@ -203,7 +203,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32270,
+                "stars": 32272,
                 "topics": [
                   "ms-dos"
                 ]
@@ -333,11 +333,11 @@
                     "id": 47593546,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-13T12:45:03Z",
-                    "open_issues": 146,
+                    "last_commit": "2026-09-17T21:37:16Z",
+                    "open_issues": 145,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3913,
+                    "stars": 3915,
                     "topics": [
                       "c",
                       "game",
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19561,
+                    "stars": 19571,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -636,7 +636,7 @@
                     "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6057,
+                    "stars": 6060,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -657,7 +657,7 @@
                     "open_issues": 1,
                     "owner": "id-Software",
                     "repo": "wolf3d",
-                    "stars": 2541,
+                    "stars": 2543,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -882,10 +882,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-01T13:13:37Z",
-                "open_issues": 101,
+                "open_issues": 102,
                 "owner": "crazii",
                 "repo": "SBEMU",
-                "stars": 783,
+                "stars": 784,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
@@ -902,11 +902,11 @@
                 "id": 602517313,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-15T07:17:51Z",
+                "last_commit": "2026-09-17T11:09:31Z",
                 "open_issues": 48,
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
-                "stars": 160,
+                "stars": 161,
                 "topics": [
                   "dos",
                   "emulation",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T08:58:48.687Z",
+    "last_updated": "2026-09-18T08:33:59.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
@@ -934,7 +934,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-08-25T18:30:42Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "balintkissdev",
       "repo": "awesome-dos",
       "stars": 636,
