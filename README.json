@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "alexfru",
             "repo": "SmallerC",
-            "stars": 1578,
+            "stars": 1579,
             "topics": [
               "c",
               "c-compiler",
@@ -47,7 +47,7 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T07:27:49Z",
+            "last_commit": "2026-09-21T01:17:28Z",
             "open_issues": 274,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
@@ -324,7 +324,7 @@
                 {
                   "node_type": "item",
                   "title": "NetHack",
-                  "description": "Descendant of the original NetHack rougelike game first released in 1987 available on multiple platforms.",
+                  "description": "Descendant of the original NetHack roguelike game first released in 1987 available on multiple platforms.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -333,11 +333,11 @@
                     "id": 47593546,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-19T16:37:25Z",
-                    "open_issues": 147,
+                    "last_commit": "2026-09-20T18:37:16Z",
+                    "open_issues": 149,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3917,
+                    "stars": 3916,
                     "topics": [
                       "c",
                       "game",
@@ -382,7 +382,7 @@
                 {
                   "node_type": "item",
                   "title": "DOS Defender",
-                  "description": "Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.",
+                  "description": "Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Ludum Dare #31.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19587,
+                    "stars": 19590,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -636,7 +636,7 @@
                     "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6058,
+                    "stars": 6060,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -657,7 +657,7 @@
                     "open_issues": 1,
                     "owner": "id-Software",
                     "repo": "wolf3d",
-                    "stars": 2544,
+                    "stars": 2545,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -707,7 +707,7 @@
                 {
                   "node_type": "item",
                   "title": "Hovertank 3D",
-                  "description": "FPS developed by id Software. Features pseudo-3D graphics with raycasting technique, before Catacomb 3D and Wolfeinstein 3D. Written in C and assembly.",
+                  "description": "FPS developed by id Software. Features pseudo-3D graphics with raycasting technique, before Catacomb 3D and Wolfenstein 3D. Written in C and assembly.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -902,11 +902,11 @@
                 "id": 602517313,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-17T11:09:31Z",
+                "last_commit": "2026-09-20T19:22:58Z",
                 "open_issues": 48,
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
-                "stars": 161,
+                "stars": 162,
                 "topics": [
                   "dos",
                   "emulation",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T08:53:06.815Z",
+    "last_updated": "2026-09-21T09:22:47.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
@@ -933,8 +933,8 @@
       "id": 194946088,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2025-08-25T18:30:42Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-20T15:45:54Z",
+      "open_issues": 1,
       "owner": "balintkissdev",
       "repo": "awesome-dos",
       "stars": 636,
@@ -949,7 +949,7 @@
         "retroprogramming"
       ]
     },
-    "original_repository_sha": "28547f89e7a5fe70ed644603305167c8f4df711b",
+    "original_repository_sha": "4cdad6f20d5b71b2481eeb30fef00a582bc902de",
     "enhanced_repository": "enhansome/enhansome-dos",
     "enhanced_repository_description": null,
     "title": "Awesome DOS with stars"
