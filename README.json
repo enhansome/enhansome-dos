@@ -47,11 +47,11 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T08:25:21Z",
-            "open_issues": 277,
+            "last_commit": "2026-09-28T08:52:37Z",
+            "open_issues": 278,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
-            "stars": 1271,
+            "stars": 1274,
             "topics": []
           },
           "first_seen": "2026-08-28T15:45:15.613Z"
@@ -203,7 +203,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32270,
+                "stars": 32272,
                 "topics": [
                   "ms-dos"
                 ]
@@ -229,8 +229,8 @@
                 "id": 1005627,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T18:37:00Z",
-                "open_issues": 394,
+                "last_commit": "2026-09-28T07:58:04Z",
+                "open_issues": 393,
                 "owner": "liballeg",
                 "repo": "allegro5",
                 "stars": 2124,
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19617,
+                    "stars": 19618,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -636,7 +636,7 @@
                     "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6065,
+                    "stars": 6066,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -657,7 +657,7 @@
                     "open_issues": 1,
                     "owner": "id-Software",
                     "repo": "wolf3d",
-                    "stars": 2548,
+                    "stars": 2549,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -881,8 +881,8 @@
                 "id": 586904864,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-22T05:25:11Z",
-                "open_issues": 103,
+                "last_commit": "2026-09-27T17:53:04Z",
+                "open_issues": 106,
                 "owner": "crazii",
                 "repo": "SBEMU",
                 "stars": 789,
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T09:37:28.995Z",
+    "last_updated": "2026-09-28T10:15:46.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
