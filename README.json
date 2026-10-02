@@ -47,11 +47,11 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T07:40:55Z",
-            "open_issues": 275,
+            "last_commit": "2026-10-02T09:24:46Z",
+            "open_issues": 274,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
-            "stars": 1278,
+            "stars": 1277,
             "topics": []
           },
           "first_seen": "2026-08-28T15:45:15.613Z"
@@ -203,7 +203,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32269,
+                "stars": 32270,
                 "topics": [
                   "ms-dos"
                 ]
@@ -333,11 +333,11 @@
                     "id": 47593546,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-01T00:37:17Z",
-                    "open_issues": 152,
+                    "last_commit": "2026-10-01T20:50:03Z",
+                    "open_issues": 151,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3931,
+                    "stars": 3933,
                     "topics": [
                       "c",
                       "game",
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19634,
+                    "stars": 19637,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -906,7 +906,7 @@
                 "open_issues": 48,
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "dos",
                   "emulation",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T10:32:15.759Z",
+    "last_updated": "2026-10-02T10:07:10.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
