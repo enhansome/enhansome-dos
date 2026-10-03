@@ -48,7 +48,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T04:12:01Z",
-            "open_issues": 275,
+            "open_issues": 276,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
             "stars": 1278,
@@ -203,7 +203,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32269,
+                "stars": 32268,
                 "topics": [
                   "ms-dos"
                 ]
@@ -334,7 +334,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-01T20:50:03Z",
-                    "open_issues": 152,
+                    "open_issues": 151,
                     "owner": "NetHack",
                     "repo": "NetHack",
                     "stars": 3932,
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19637,
+                    "stars": 19634,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:43:19.757Z",
+    "last_updated": "2026-10-03T09:30:02.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
