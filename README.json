@@ -47,11 +47,11 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T09:24:46Z",
-            "open_issues": 274,
+            "last_commit": "2026-10-03T04:12:01Z",
+            "open_issues": 275,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
-            "stars": 1277,
+            "stars": 1278,
             "topics": []
           },
           "first_seen": "2026-08-28T15:45:15.613Z"
@@ -203,7 +203,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32270,
+                "stars": 32269,
                 "topics": [
                   "ms-dos"
                 ]
@@ -233,7 +233,7 @@
                 "open_issues": 393,
                 "owner": "liballeg",
                 "repo": "allegro5",
-                "stars": 2123,
+                "stars": 2124,
                 "topics": [
                   "android",
                   "audio",
@@ -334,10 +334,10 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-01T20:50:03Z",
-                    "open_issues": 151,
+                    "open_issues": 152,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3933,
+                    "stars": 3932,
                     "topics": [
                       "c",
                       "game",
@@ -572,7 +572,7 @@
                     {
                       "node_type": "item",
                       "title": "GitHub repository",
-                      "description": null,
+                      "description": "porta2note/gridfighter3d",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -636,7 +636,7 @@
                     "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6070,
+                    "stars": 6071,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -657,7 +657,7 @@
                     "open_issues": 1,
                     "owner": "id-Software",
                     "repo": "wolf3d",
-                    "stars": 2550,
+                    "stars": 2547,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -882,7 +882,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-28T23:44:09Z",
-                "open_issues": 105,
+                "open_issues": 106,
                 "owner": "crazii",
                 "repo": "SBEMU",
                 "stars": 790,
@@ -902,8 +902,8 @@
                 "id": 602517313,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-20T19:22:58Z",
-                "open_issues": 48,
+                "last_commit": "2026-10-02T15:16:04Z",
+                "open_issues": 49,
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
                 "stars": 167,
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:07:10.645Z",
+    "last_updated": "2026-10-03T04:43:19.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
