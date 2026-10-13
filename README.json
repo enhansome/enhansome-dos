@@ -47,11 +47,11 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T08:02:54Z",
+            "last_commit": "2026-10-13T09:49:10Z",
             "open_issues": 277,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
-            "stars": 1283,
+            "stars": 1282,
             "topics": []
           },
           "first_seen": "2026-08-28T15:45:15.613Z"
@@ -203,7 +203,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32263,
+                "stars": 32265,
                 "topics": [
                   "ms-dos"
                 ]
@@ -333,11 +333,11 @@
                     "id": 47593546,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-11T23:15:03Z",
-                    "open_issues": 155,
+                    "last_commit": "2026-10-12T19:37:40Z",
+                    "open_issues": 157,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3947,
+                    "stars": 3948,
                     "topics": [
                       "c",
                       "game",
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19699,
+                    "stars": 19707,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -636,7 +636,7 @@
                     "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6083,
+                    "stars": 6085,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T11:25:16.153Z",
+    "last_updated": "2026-10-13T11:15:07.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
