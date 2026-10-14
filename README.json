@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "alexfru",
             "repo": "SmallerC",
-            "stars": 1578,
+            "stars": 1580,
             "topics": [
               "c",
               "c-compiler",
@@ -47,11 +47,11 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T09:49:10Z",
+            "last_commit": "2026-10-14T07:59:43Z",
             "open_issues": 277,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
-            "stars": 1282,
+            "stars": 1281,
             "topics": []
           },
           "first_seen": "2026-08-28T15:45:15.613Z"
@@ -333,11 +333,11 @@
                     "id": 47593546,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-12T19:37:40Z",
-                    "open_issues": 157,
+                    "last_commit": "2026-10-13T17:45:03Z",
+                    "open_issues": 158,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3948,
+                    "stars": 3951,
                     "topics": [
                       "c",
                       "game",
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19707,
+                    "stars": 19713,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -657,7 +657,7 @@
                     "open_issues": 1,
                     "owner": "id-Software",
                     "repo": "wolf3d",
-                    "stars": 2550,
+                    "stars": 2552,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -678,7 +678,7 @@
                     "open_issues": 5,
                     "owner": "keendreams",
                     "repo": "keen",
-                    "stars": 1969,
+                    "stars": 1970,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -699,7 +699,7 @@
                     "open_issues": 0,
                     "owner": "videogamepreservation",
                     "repo": "descent",
-                    "stars": 430,
+                    "stars": 431,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -741,7 +741,7 @@
                     "open_issues": 0,
                     "owner": "CatacombGames",
                     "repo": "Catacomb3D",
-                    "stars": 206,
+                    "stars": 207,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -762,7 +762,7 @@
                     "open_issues": 0,
                     "owner": "CatacombGames",
                     "repo": "Catacomb",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -882,7 +882,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-07T01:25:52Z",
-                "open_issues": 107,
+                "open_issues": 108,
                 "owner": "crazii",
                 "repo": "SBEMU",
                 "stars": 793,
@@ -902,11 +902,11 @@
                 "id": 602517313,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-08T14:41:04Z",
+                "last_commit": "2026-10-14T07:45:25Z",
                 "open_issues": 49,
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
-                "stars": 169,
+                "stars": 170,
                 "topics": [
                   "dos",
                   "emulation",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:15:07.860Z",
+    "last_updated": "2026-10-14T09:06:47.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
