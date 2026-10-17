@@ -47,7 +47,7 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T06:27:44Z",
+            "last_commit": "2026-10-17T03:27:27Z",
             "open_issues": 277,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
@@ -233,7 +233,7 @@
                 "open_issues": 394,
                 "owner": "liballeg",
                 "repo": "allegro5",
-                "stars": 2129,
+                "stars": 2128,
                 "topics": [
                   "android",
                   "audio",
@@ -333,7 +333,7 @@
                     "id": 47593546,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-15T20:37:16Z",
+                    "last_commit": "2026-10-17T01:05:03Z",
                     "open_issues": 161,
                     "owner": "NetHack",
                     "repo": "NetHack",
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19727,
+                    "stars": 19734,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -902,7 +902,7 @@
                 "id": 602517313,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-14T07:45:25Z",
+                "last_commit": "2026-10-16T14:12:12Z",
                 "open_issues": 48,
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T08:34:14.529Z",
+    "last_updated": "2026-10-17T08:06:41.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
