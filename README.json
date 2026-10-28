@@ -47,7 +47,7 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T07:04:59Z",
+            "last_commit": "2026-10-28T09:24:35Z",
             "open_issues": 279,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
@@ -203,7 +203,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32260,
+                "stars": 32261,
                 "topics": [
                   "ms-dos"
                 ]
@@ -233,7 +233,7 @@
                 "open_issues": 403,
                 "owner": "liballeg",
                 "repo": "allegro5",
-                "stars": 2127,
+                "stars": 2128,
                 "topics": [
                   "android",
                   "audio",
@@ -333,11 +333,11 @@
                     "id": 47593546,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-26T15:37:17Z",
-                    "open_issues": 165,
+                    "last_commit": "2026-10-27T15:37:18Z",
+                    "open_issues": 173,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3963,
+                    "stars": 3965,
                     "topics": [
                       "c",
                       "game",
@@ -416,7 +416,7 @@
                     "open_issues": 4,
                     "owner": "TheFakeMontyOnTheRun",
                     "repo": "dungeons-of-noudar",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": [
                       "djgpp",
                       "dungeon",
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19798,
+                    "stars": 19810,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -636,7 +636,7 @@
                     "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6100,
+                    "stars": 6101,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -885,7 +885,7 @@
                 "open_issues": 110,
                 "owner": "crazii",
                 "repo": "SBEMU",
-                "stars": 797,
+                "stars": 796,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:24:38.655Z",
+    "last_updated": "2026-10-28T10:06:50.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
