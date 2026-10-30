@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "alexfru",
             "repo": "SmallerC",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "c",
               "c-compiler",
@@ -47,7 +47,7 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T07:40:39Z",
+            "last_commit": "2026-10-30T07:55:43Z",
             "open_issues": 279,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
@@ -203,7 +203,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32260,
+                "stars": 32261,
                 "topics": [
                   "ms-dos"
                 ]
@@ -229,8 +229,8 @@
                 "id": 1005627,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T00:51:20Z",
-                "open_issues": 403,
+                "last_commit": "2026-10-30T03:03:40Z",
+                "open_issues": 402,
                 "owner": "liballeg",
                 "repo": "allegro5",
                 "stars": 2128,
@@ -334,10 +334,10 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-27T15:37:18Z",
-                    "open_issues": 182,
+                    "open_issues": 184,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3965,
+                    "stars": 3969,
                     "topics": [
                       "c",
                       "game",
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19814,
+                    "stars": 19819,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -636,7 +636,7 @@
                     "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6103,
+                    "stars": 6105,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -903,7 +903,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-29T08:26:34Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
                 "stars": 173,
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:31:38.424Z",
+    "last_updated": "2026-10-30T10:30:51.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
