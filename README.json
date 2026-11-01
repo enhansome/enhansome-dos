@@ -47,7 +47,7 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T07:54:34Z",
+            "last_commit": "2026-11-01T09:16:37Z",
             "open_issues": 279,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
@@ -203,7 +203,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32262,
+                "stars": 32261,
                 "topics": [
                   "ms-dos"
                 ]
@@ -333,11 +333,11 @@
                     "id": 47593546,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-30T22:37:16Z",
-                    "open_issues": 184,
+                    "last_commit": "2026-10-31T14:37:16Z",
+                    "open_issues": 181,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3969,
+                    "stars": 3970,
                     "topics": [
                       "c",
                       "game",
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19822,
+                    "stars": 19825,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -636,7 +636,7 @@
                     "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6107,
+                    "stars": 6108,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -720,7 +720,7 @@
                     "open_issues": 0,
                     "owner": "FlatRockSoft",
                     "repo": "Hovertank3D",
-                    "stars": 257,
+                    "stars": 259,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -903,10 +903,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-31T07:43:46Z",
-                "open_issues": 48,
+                "open_issues": 47,
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
-                "stars": 173,
+                "stars": 174,
                 "topics": [
                   "dos",
                   "emulation",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:00:16.639Z",
+    "last_updated": "2026-11-01T10:52:16.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
