@@ -47,11 +47,11 @@
             "id": 5390641,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T10:53:12Z",
+            "last_commit": "2026-11-06T08:54:24Z",
             "open_issues": 280,
             "owner": "open-watcom",
             "repo": "open-watcom-v2",
-            "stars": 1294,
+            "stars": 1297,
             "topics": []
           },
           "first_seen": "2026-08-28T15:45:15.613Z"
@@ -203,7 +203,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32261,
+                "stars": 32262,
                 "topics": [
                   "ms-dos"
                 ]
@@ -229,11 +229,11 @@
                 "id": 1005627,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T03:03:40Z",
-                "open_issues": 405,
+                "last_commit": "2026-11-06T01:11:43Z",
+                "open_issues": 404,
                 "owner": "liballeg",
                 "repo": "allegro5",
-                "stars": 2129,
+                "stars": 2130,
                 "topics": [
                   "android",
                   "audio",
@@ -333,11 +333,11 @@
                     "id": 47593546,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-11-04T19:37:17Z",
+                    "last_commit": "2026-11-05T23:37:16Z",
                     "open_issues": 172,
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3976,
+                    "stars": 3978,
                     "topics": [
                       "c",
                       "game",
@@ -615,7 +615,7 @@
                     "open_issues": 15,
                     "owner": "id-Software",
                     "repo": "DOOM",
-                    "stars": 19845,
+                    "stars": 19850,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -636,7 +636,7 @@
                     "open_issues": 4,
                     "owner": "id-Software",
                     "repo": "Quake",
-                    "stars": 6117,
+                    "stars": 6119,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -657,7 +657,7 @@
                     "open_issues": 1,
                     "owner": "id-Software",
                     "repo": "wolf3d",
-                    "stars": 2565,
+                    "stars": 2566,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:45:15.613Z"
@@ -885,7 +885,7 @@
                 "open_issues": 108,
                 "owner": "crazii",
                 "repo": "SBEMU",
-                "stars": 797,
+                "stars": 798,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:45:15.613Z"
@@ -906,7 +906,7 @@
                 "open_issues": 44,
                 "owner": "Baron-von-Riedesel",
                 "repo": "VSBHDA",
-                "stars": 174,
+                "stars": 175,
                 "topics": [
                   "dos",
                   "emulation",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T11:42:04.743Z",
+    "last_updated": "2026-11-06T11:40:10.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of references for development of DOS applications.",
@@ -937,7 +937,7 @@
       "open_issues": 1,
       "owner": "balintkissdev",
       "repo": "awesome-dos",
-      "stars": 645,
+      "stars": 646,
       "topics": [
         "awesome",
         "awesome-list",
